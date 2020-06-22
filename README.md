@@ -18,7 +18,7 @@ Paper Yolo v4: https://arxiv.org/abs/2004.10934
 Follow the [notebook](https://github.com/SravanChittupalli/COVID-19-Mask_detector/blob/master/training_yolov4.ipynb) that is included in the repository.
 
 #### Video of results
-[![Demo Video](https://github.com/SravanChittupalli/COVID-19-Mask_detector/blob/master/Mask_demo.png)]()
+[![Click here for demo video](https://github.com/SravanChittupalli/COVID-19-Mask_detector/blob/master/Mask_demo.png)](https://youtu.be/U1RNoMJoy_Y)
 
 # Tutorials
 Roboflow :- [How to Train YOLOv4 on a Custom Dataset](https://blog.roboflow.ai/training-yolov4-on-a-custom-dataset/)
