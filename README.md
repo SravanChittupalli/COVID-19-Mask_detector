@@ -1,5 +1,8 @@
 # COVID-19-Mask_detector
 ## Real Time Mask Detection
+Paper Yolo v4: https://arxiv.org/abs/2004.10934
+<br>
+![Yolo Architecture](https://miro.medium.com/max/2864/1*b-TbPh9J0Oyal7Nw6iah5w.jpeg)
 ### STEPS
 1. Clone this repository
 2. Clone [AlexyAB's](https://github.com/AlexeyAB/darknet) darknet implementation
@@ -15,7 +18,7 @@
 Follow the [notebook](https://github.com/SravanChittupalli/COVID-19-Mask_detector/blob/master/training_yolov4.ipynb) that is included in the repository.
 
 #### Video of results
-![Demo Video](https://github.com/SravanChittupalli/COVID-19-Mask_detector/blob/master/Mask_demo.png)
+[![Demo Video](https://github.com/SravanChittupalli/COVID-19-Mask_detector/blob/master/Mask_demo.png)]()
 
 # Tutorials
 Roboflow :- [How to Train YOLOv4 on a Custom Dataset](https://blog.roboflow.ai/training-yolov4-on-a-custom-dataset/)
